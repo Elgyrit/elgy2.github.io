@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="1" width="100%">
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Nim</th>
+                <th>Nama</th>
+                <th>Kelas</th>
+                <th>Prodi</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>1</td>
+            <td>2342</td>
+            <td>Rafli</td>
+            <td rowspan="2">SI12</td>
+            <td>sistem informasi</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>9337</td>
+            <td>Joko</td>
+            <td>Sistem informasi</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>5354</td>
+            <td>Firaun</td>
+            <td rowspan="1">SI13</td>
+            <td>Sistem informasi</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>1234</td>
+            <td>Mozila</td>
+            <td rowspan="2">SI14</td>
+            <td>Sistem informasi</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>4555</td>
+            <td>Alexis</td>
+            <td>Sistem informasi</td>
+        </tr>
+    </table>
+</body>
+
+</html>
